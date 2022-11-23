@@ -18,6 +18,7 @@
 
 body {
   background: var(--primary);
+  overflow-x: hidden;
 }
 
 a {
